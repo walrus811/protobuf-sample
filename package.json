@@ -1,0 +1,16 @@
+{
+  "name": "protobuf-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "x": "node src/index.js",
+    "b:proto": "node script/build_proto.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-protoc-gen": "^0.15.0"
+  }
+}
